@@ -1,0 +1,70 @@
+[33mcommit ffe035244f6ee5679a7cd17127fdd35c43821ed4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 44062c1 bf11203
+Author: W B D Paniágua <niilist@gmail.com>
+Date:   Mon Nov 4 15:38:00 2024 -0400
+
+    Merge branch 'main' of https://github.com/www4lker/projeto-mestrado-GIT-VERIFICADO
+    
+    git merge - trabalhando com tres brenchs, main é a final
+
+[33mcommit 44062c15714fa1b67594b1711ecf2f0fb724a545[m
+Author: W B D Paniágua <niilist@gmail.com>
+Date:   Mon Nov 4 15:36:03 2024 -0400
+
+    read.me premiliminar
+
+[33mcommit bf112031c7c1b4cb08237a7eaa2e4a48f85806db[m
+Author: walker <108201214+www4lker@users.noreply.github.com>
+Date:   Mon Nov 4 15:34:08 2024 -0400
+
+    Create README.md
+    
+    via github navegador firefox
+
+[33mcommit d7d8cd98d33a2e55ceea9fcdcbbff02ed2a6f964[m
+Author: W B D Paniágua <niilist@gmail.com>
+Date:   Mon Nov 4 15:02:52 2024 -0400
+
+    readme em composição
+
+[33mcommit 05214dfdb8cffa2298452ad6d26e190a11dadfab[m
+Author: W B D Paniágua <niilist@gmail.com>
+Date:   Mon Nov 4 14:47:22 2024 -0400
+
+    salvo thread
+
+[33mcommit b0f6a457764fdf97602bde7ded1ebdb1e5431037[m
+Author: W B D Paniágua <niilist@gmail.com>
+Date:   Mon Nov 4 14:45:33 2024 -0400
+
+    salvar tudo e confirmar - checar arquivo thread
+
+[33mcommit 29853a80875c8369a0842fe43aa344c2a8cb1678[m
+Author: W B D Paniágua <niilist@gmail.com>
+Date:   Mon Nov 4 14:45:30 2024 -0400
+
+    metaanalise e notas de consulta ao IA > tecnicos
+
+[33mcommit d54274e50ef4828146e76ab6b89a1d5e7fdaea05[m
+Author: W B D Paniágua <niilist@gmail.com>
+Date:   Mon Nov 4 14:09:57 2024 -0400
+
+    editor vs codium fechou do nada
+
+[33mcommit 9d885492185bf455cbf835b2d477d294e73cc30d[m
+Author: W B D Paniágua <niilist@gmail.com>
+Date:   Mon Nov 4 13:46:03 2024 -0400
+
+    atualização sobre IA
+
+[33mcommit 9a3baefead36eaaa02403b04f8253d39a88b89a2[m[33m ([m[1;31morigin/nodo-00[m[33m, [m[1;32mnodo-00[m[33m)[m
+Author: W B D Paniágua <niilist@gmail.com>
+Date:   Mon Nov 4 12:57:13 2024 -0400
+
+    ATUALIZAÇÃO REPOSITORIO - NOVO NOME PASTA
+
+[33mcommit 72f6c69d92ed28fb7ef0ef2ab3f192c1c220397a[m
+Author: W B D Paniágua <niilist@gmail.com>
+Date:   Mon Nov 4 12:35:42 2024 -0400
+
+    Aqui começa a jornada de independencia mediada e verificada pelo git e github
