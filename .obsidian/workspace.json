@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tese/01 -markdown/2 desenvolv/capitulos copy 6.md",
+                "file": "log AI/research/quais são, atualmente, os métodos mais sofisticados e comprovados de comprovar que.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "capitulos copy 6"
+              "title": "quais são, atualmente, os métodos mais sofisticados e comprovados de comprovar que"
             }
           }
         ]
@@ -69,16 +69,6 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "535d0170b608eceb",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ]
       },
@@ -107,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 617.5
   },
   "right": {
     "id": "5cbb59c6e9772bb9",
@@ -163,18 +153,6 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "a7b70429764e2a03",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of README"
-            }
           }
         ]
       }
@@ -194,21 +172,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ea04a922c9f2ae31",
+  "active": "6a84eb4aa35647fa",
   "lastOpenFiles": [
-    "read-me.md",
-    "log AI/thread_zFmGmp6NXYo0OgdHjgg6A8rs",
-    "log AI/research/uma abordagem mais aprofundada com viés pós-moderno sobre o tema da autoria no contexto da inteligência artificial.md",
-    "log AI/research/Para iniciar uma dissertação de mestrado que aborde a questão da autoria em tempos de Inteligência Artificial (IA) partindo de princípios filosóficos.md",
-    "tese/01 -markdown/2 desenvolv/capitulos copy 7.md",
-    "tese/01 -markdown/2 desenvolv/capitulos copy 6.md",
-    "README.md",
-    "log AI/research/quais são, atualmente, os métodos mais sofisticados e comprovados de comprovar que.md",
     "log AI/2024-11-04_12-01-46_Perplexity.ai_ peço ao IA  sobre estrutura de pastas no linux.md",
     "log AI/research/Como a IA afeta a autoria acadêmica.md",
     "log AI/research/How does the concept of authorship evolve in an era where AI can generate, modify, and interpret texts.md",
     "log AI/research/Parecido com o paradoxo do navio de Teseu.md",
     "log AI/research/tudo começa com a pergunta.md",
+    "log AI/research/quais são, atualmente, os métodos mais sofisticados e comprovados de comprovar que.md",
     "log AI/research/e se for o autor.md",
     "log AI/research/perguntas de pesquisa eficazes.md",
     "log AI/research/O impacto cultural da IA, abordado por Harari.md",
@@ -216,12 +187,19 @@
     "log AI/research/IAs têm o poder de manipular e reconfigurar as interações sociais e políticas.md",
     "log AI/research/harari, nexus e IA.md",
     "log AI/research/README.md",
+    "log AI/research/uma abordagem mais aprofundada com viés pós-moderno sobre o tema da autoria no contexto da inteligência artificial.md",
     "log AI/research/não existe um método 100% infalível.md",
+    "README.md",
+    "read-me.md",
     "0 - VAULT/1 NOTAS LITERAIS/ECCO/RESPOSTA - PROMPT INICIAL - ECCO 2023 INCURSÃO.md",
     "0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 071223.md",
     "0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 091223.md",
     "0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 081223.md",
     "0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 101223.md",
+    "0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 111223.md",
+    "0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 121223.md",
+    "0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 131223.md",
+    "0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 141223.md",
     "HOME-PERPCEPTOS.canvas",
     "home.canvas",
     "0 - VAULT/3 NOTAS PARA REVISAR/g3.png",
@@ -236,6 +214,7 @@
     "EXTRA/MESTRADO",
     "EXTRA/GEOGRAFIA 6 E 7",
     "EXTRA",
+    "0 - VAULT/2 NOTAS PERMANENTES/notas literais para processar",
     "0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/foto de agosto de 2007 no facebook.jpg",
     "0 - VAULT/1 NOTAS LITERAIS/ANELO/_QhxS3dRqE0xPn_7_i20hUOCOo8e8D2JT.png",
     "0 - VAULT/1 NOTAS LITERAIS/ANELO/[PI] Evento Desvendando o PI-Abril.png",
