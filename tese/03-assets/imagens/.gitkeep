@@ -1,0 +1,4 @@
+touch pasta-vazia/.gitkeep
+git add pasta-vazia/.gitkeep
+git commit -m "Adicionando .gitkeep para rastrear a pasta vazia"
+git push origin main
