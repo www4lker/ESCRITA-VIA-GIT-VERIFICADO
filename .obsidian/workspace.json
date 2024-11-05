@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "c67af6141351c98e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e09c5bc86b00f425",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a84eb4aa35647fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tese/01 -markdown/2 desenvolv/capitulos copy 6.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "capitulos copy 6"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc19e06b3057937d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc7fc7e34f069252",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea04a922c9f2ae31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "de513c99cf4d54d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "ea793a319a845d33",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "535d0170b608eceb",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      },
+      {
+        "id": "357fd2a92bd1fb23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a8392f00f940698",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "quais",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTimeReverse"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411.5
+  },
+  "right": {
+    "id": "5cbb59c6e9772bb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fde466fdcda2880",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5e020a2ae15fd89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0 - VAULT/1 NOTAS LITERAIS/meta notas/meta-prompt Article to notes.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for meta-prompt Article to notes"
+            }
+          },
+          {
+            "id": "ed9c7bcf0d533a67",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0 - VAULT/1 NOTAS LITERAIS/meta notas/meta-prompt Article to notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from meta-prompt Article to notes"
+            }
+          },
+          {
+            "id": "97de4892dccf6a4f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a7b70429764e2a03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "ea04a922c9f2ae31",
+  "lastOpenFiles": [
+    "read-me.md",
+    "log AI/thread_zFmGmp6NXYo0OgdHjgg6A8rs",
+    "log AI/research/uma abordagem mais aprofundada com viés pós-moderno sobre o tema da autoria no contexto da inteligência artificial.md",
+    "log AI/research/Para iniciar uma dissertação de mestrado que aborde a questão da autoria em tempos de Inteligência Artificial (IA) partindo de princípios filosóficos.md",
+    "tese/01 -markdown/2 desenvolv/capitulos copy 7.md",
+    "tese/01 -markdown/2 desenvolv/capitulos copy 6.md",
+    "README.md",
+    "log AI/research/quais são, atualmente, os métodos mais sofisticados e comprovados de comprovar que.md",
+    "log AI/2024-11-04_12-01-46_Perplexity.ai_ peço ao IA  sobre estrutura de pastas no linux.md",
+    "log AI/research/Como a IA afeta a autoria acadêmica.md",
+    "log AI/research/How does the concept of authorship evolve in an era where AI can generate, modify, and interpret texts.md",
+    "log AI/research/Parecido com o paradoxo do navio de Teseu.md",
+    "log AI/research/tudo começa com a pergunta.md",
+    "log AI/research/e se for o autor.md",
+    "log AI/research/perguntas de pesquisa eficazes.md",
+    "log AI/research/O impacto cultural da IA, abordado por Harari.md",
+    "log AI/research/análise complexa sobre o impacto da inteligência artificial (IA) na autoria e nos processos culturais.md",
+    "log AI/research/IAs têm o poder de manipular e reconfigurar as interações sociais e políticas.md",
+    "log AI/research/harari, nexus e IA.md",
+    "log AI/research/README.md",
+    "log AI/research/não existe um método 100% infalível.md",
+    "0 - VAULT/1 NOTAS LITERAIS/ECCO/RESPOSTA - PROMPT INICIAL - ECCO 2023 INCURSÃO.md",
+    "0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 071223.md",
+    "0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 091223.md",
+    "0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 081223.md",
+    "0 - VAULT/1 NOTAS LITERAIS/destaques de leitura - kindle/NK - 101223.md",
+    "HOME-PERPCEPTOS.canvas",
+    "home.canvas",
+    "0 - VAULT/3 NOTAS PARA REVISAR/g3.png",
+    "0 - VAULT/3 NOTAS PARA REVISAR/g1.png",
+    "0 - VAULT/3 NOTAS PARA REVISAR/g2.png",
+    "TagsRoutes/reports",
+    "TagsRoutes/logs",
+    "TagsRoutes",
+    "0 - VAULT/EXTRA/GEOGRAFIA 6 E 7",
+    "0 - VAULT/EXTRA/MESTRADO",
+    "0 - VAULT/EXTRA",
+    "EXTRA/MESTRADO",
+    "EXTRA/GEOGRAFIA 6 E 7",
+    "EXTRA",
+    "0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/foto de agosto de 2007 no facebook.jpg",
+    "0 - VAULT/1 NOTAS LITERAIS/ANELO/_QhxS3dRqE0xPn_7_i20hUOCOo8e8D2JT.png",
+    "0 - VAULT/1 NOTAS LITERAIS/ANELO/[PI] Evento Desvendando o PI-Abril.png",
+    "0 - VAULT/1 NOTAS LITERAIS/ANELO/TURMAS-2302-1-TRI-ABRIL-2023.png",
+    "0 - VAULT/1 NOTAS LITERAIS/ANELO/Slide1.png",
+    "0 - VAULT/1 NOTAS LITERAIS/ANELO/Slide1.jpg",
+    "0 - VAULT/1 NOTAS LITERAIS/ANELO/Senac-Boas-vindas-PI.png",
+    "0 - VAULT/1 NOTAS LITERAIS/ANELO/Sem título.canvas",
+    "1 NOTAS LITERAIS/ANELO/Sem título.canvas"
+  ]
+}

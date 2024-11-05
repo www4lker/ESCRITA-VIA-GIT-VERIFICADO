@@ -1,0 +1,15 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0 - VAULT/EXTRA",
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "hidden",
+  "trashOption": "local",
+  "attachmentFolderPath": "0 - VAULT/3 NOTAS PARA REVISAR",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
