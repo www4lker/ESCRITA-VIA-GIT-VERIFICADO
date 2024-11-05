@@ -1,0 +1,1 @@
+# Elementos pré-textuais (capa, resumo, etc.)
