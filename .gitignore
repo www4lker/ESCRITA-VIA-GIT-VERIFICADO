@@ -1,0 +1,6 @@
+# Ignora as configurações locais do Obsidian
+.obsidian/      # Pasta de configurações do Obsidian (plug-ins, temas, etc.)
+
+# Ignora os arquivos de cache e histórico de anotações
+.obsidian/workspace # Estado do workspace do Obsidian (posição de janelas etc.)
+.obsidian/cache     # Cache do Obsidian
