@@ -1,0 +1,680 @@
+{
+  "workspaces": {
+    "0": {
+      "main": {
+        "id": "c67af6141351c98e",
+        "type": "split",
+        "children": [
+          {
+            "id": "c9a2acb749f95d78",
+            "type": "tabs",
+            "dimension": 18.48688224527151,
+            "children": [
+              {
+                "id": "d96b51dd37bf3d2a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "0 - VAULT/1 NOTAS LITERAIS/meta notas/meta-prompt Article to notes.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "eea0bf07734b27cd",
+            "type": "tabs",
+            "dimension": 65.03965832824893,
+            "children": [
+              {
+                "id": "2badde572899c25b",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0 - VAULT/1 NOTAS LITERAIS/meta notas/meta-prompt Article to notes.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "036ee52c53354c48",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0 - VAULT/2 NOTAS PERMANENTES/HASHTAG filosofia.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "7954f30bd28384c5",
+            "type": "tabs",
+            "dimension": 16.47345942647956,
+            "children": [
+              {
+                "id": "ab0d2e3f5a33129d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "0 - VAULT/1 NOTAS LITERAIS/meta notas/meta-prompt Article to notes.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "cc19e06b3057937d",
+        "type": "split",
+        "children": [
+          {
+            "id": "bc7fc7e34f069252",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ea04a922c9f2ae31",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "de513c99cf4d54d5",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ea793a319a845d33",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "357fd2a92bd1fb23",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9a8392f00f940698",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "nietzsche",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTimeReverse"
+                  }
+                }
+              },
+              {
+                "id": "af85d512f1916c57",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 221.5
+      },
+      "right": {
+        "id": "5cbb59c6e9772bb9",
+        "type": "split",
+        "children": [
+          {
+            "id": "2fde466fdcda2880",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f5e020a2ae15fd89",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0 - VAULT/1 NOTAS LITERAIS/meta notas/meta-prompt Article to notes.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ed9c7bcf0d533a67",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0 - VAULT/1 NOTAS LITERAIS/meta notas/meta-prompt Article to notes.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 285.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-textgenerator-plugin:Generate Text!": false,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+          "homepage:Open homepage": false,
+          "switcher:Abrir a troca rápida": false,
+          "graph:Abrir visualização em gráfico": false,
+          "canvas:Criar novo canvas": false,
+          "daily-notes:Abrir a nota de hoje": false,
+          "templates:Inserir modelo": false,
+          "command-palette:Abrir paleta de comandos": false,
+          "digitalgarden:Digital Garden Publication Center": false,
+          "workspaces:Gerenciar leiautes da área de trabalho": false
+        }
+      },
+      "active": "2badde572899c25b",
+      "mtime": "2024-08-24T15:05:49-04:00"
+    },
+    "smart-obsidian": {
+      "main": {
+        "id": "c67af6141351c98e",
+        "type": "split",
+        "children": [
+          {
+            "id": "20560379ff316d84",
+            "type": "tabs",
+            "dimension": 19.364375461936437,
+            "children": [
+              {
+                "id": "559b2634595065b2",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "ab0d2e3f5a33129d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "0 - VAULT/3 NOTAS PARA REVISAR/3/seis principais determinantes do problema e potenciais soluções.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "31c9fbbfc96c518c",
+            "type": "tabs",
+            "dimension": 54.767184035476724,
+            "children": [
+              {
+                "id": "d63de255242771ed",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0 - VAULT/3 NOTAS PARA REVISAR/3/seis principais determinantes do problema e potenciais soluções.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "088e13f378baa2ff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0 - VAULT/3 NOTAS PARA REVISAR/Sem título.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2a4d20be146c0aa3",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "a5cb2b8aa1dddf54",
+            "type": "tabs",
+            "dimension": 25.86844050258684,
+            "children": [
+              {
+                "id": "976960def0144282",
+                "type": "leaf",
+                "state": {
+                  "type": "smart-connections-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "78b30350311571bc",
+                "type": "leaf",
+                "state": {
+                  "type": "smart-connections-chat-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "cc19e06b3057937d",
+        "type": "split",
+        "children": [
+          {
+            "id": "bc7fc7e34f069252",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ea04a922c9f2ae31",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "de513c99cf4d54d5",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ea793a319a845d33",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "af85d512f1916c57",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 221.5
+      },
+      "right": {
+        "id": "5cbb59c6e9772bb9",
+        "type": "split",
+        "children": [
+          {
+            "id": "2fde466fdcda2880",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f5e020a2ae15fd89",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0 - VAULT/3 NOTAS PARA REVISAR/3/seis principais determinantes do problema e potenciais soluções.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ed9c7bcf0d533a67",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0 - VAULT/3 NOTAS PARA REVISAR/3/seis principais determinantes do problema e potenciais soluções.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d96b51dd37bf3d2a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "0 - VAULT/3 NOTAS PARA REVISAR/3/seis principais determinantes do problema e potenciais soluções.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "a579c16246dee791",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9a8392f00f940698",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTimeReverse"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 285.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Abrir a troca rápida": false,
+          "graph:Abrir visualização em gráfico": false,
+          "canvas:Criar novo canvas": false,
+          "daily-notes:Abrir a nota de hoje": false,
+          "templates:Inserir modelo": false,
+          "command-palette:Abrir paleta de comandos": false,
+          "omnisearch:Omnisearch": false,
+          "workspaces:Gerenciar leiautes da área de trabalho": false,
+          "digitalgarden:Digital Garden Publication Center": false,
+          "smart-connections:Open: View Smart Connections": false,
+          "smart-connections:Open: Smart Chat Conversation": false
+        }
+      },
+      "active": "78b30350311571bc",
+      "mtime": "2024-06-20T17:13:03-04:00"
+    },
+    "LAR-DOCE-LAR": {
+      "main": {
+        "id": "c67af6141351c98e",
+        "type": "split",
+        "children": [
+          {
+            "id": "f97de42619355d12",
+            "type": "tabs",
+            "dimension": 71.8259629101284,
+            "children": [
+              {
+                "id": "b48eeb2f9fefec37",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "HOME-PERPCEPTOS.canvas",
+                    "viewState": {
+                      "x": 570,
+                      "y": 132.07142857142856,
+                      "zoom": -1.4468863653181836
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "aaaadbd1d8048967",
+            "type": "split",
+            "dimension": 28.17403708987161,
+            "children": [
+              {
+                "id": "50d6504c96f19d99",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "559b2634595065b2",
+                    "type": "leaf",
+                    "state": {
+                      "type": "all-properties",
+                      "state": {
+                        "sortOrder": "frequency",
+                        "showSearch": false,
+                        "searchQuery": ""
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "07bd273ecb700afb",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "ab0d2e3f5a33129d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "file-properties",
+                      "state": {
+                        "file": "HOME-PERPCEPTOS.canvas"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "cc19e06b3057937d",
+        "type": "split",
+        "children": [
+          {
+            "id": "bc7fc7e34f069252",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ea04a922c9f2ae31",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "de513c99cf4d54d5",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ea793a319a845d33",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "357fd2a92bd1fb23",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9a8392f00f940698",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTimeReverse"
+                  }
+                }
+              },
+              {
+                "id": "af85d512f1916c57",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 221.5
+      },
+      "right": {
+        "id": "5cbb59c6e9772bb9",
+        "type": "split",
+        "children": [
+          {
+            "id": "2fde466fdcda2880",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f5e020a2ae15fd89",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "HOME-PERPCEPTOS.canvas",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ed9c7bcf0d533a67",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "HOME-PERPCEPTOS.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d96b51dd37bf3d2a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "HOME-PERPCEPTOS.canvas"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 285.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "smart-connections:Open: View Smart Connections": false,
+          "smart-connections:Open: Smart Chat Conversation": false,
+          "homepage:Open homepage": false,
+          "switcher:Abrir a troca rápida": false,
+          "graph:Abrir visualização em gráfico": false,
+          "canvas:Criar novo canvas": false,
+          "daily-notes:Abrir a nota de hoje": false,
+          "templates:Inserir modelo": false,
+          "command-palette:Abrir paleta de comandos": false,
+          "digitalgarden:Digital Garden Publication Center": false,
+          "workspaces:Gerenciar leiautes da área de trabalho": false
+        }
+      },
+      "active": "b48eeb2f9fefec37",
+      "mtime": "2024-07-21T12:50:30-04:00"
+    }
+  },
+  "active": "0"
+}
