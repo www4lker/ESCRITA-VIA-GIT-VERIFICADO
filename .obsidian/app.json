@@ -1,9 +1,9 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "0 - VAULT/EXTRA",
+  "newFileFolderPath": "EXTRA",
   "alwaysUpdateLinks": true,
   "propertiesInDocument": "hidden",
-  "trashOption": "local",
+  "trashOption": "system",
   "attachmentFolderPath": "0 - VAULT/3 NOTAS PARA REVISAR",
   "pdfExportSettings": {
     "includeName": false,
@@ -11,5 +11,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "promptDelete": false
 }
