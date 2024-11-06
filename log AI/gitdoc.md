@@ -1,4 +1,3 @@
-
 ## O que é o GitDoc?
 
 O GitDoc é uma extensão para o Visual Studio Code (VS Code) que automatiza o processo de commit, push, e pull de alterações no seu repositório Git, tornando o gerenciamento de versões mais simples e intuitivo.
