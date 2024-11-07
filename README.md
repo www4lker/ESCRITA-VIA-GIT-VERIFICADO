@@ -1,197 +1,145 @@
-# ESCREVENDO A DISSERTAÇÃO DE MESTRADO VIA MARKDOWN - LATEX USANDO O CONTROLE DE VERSIONAMENTO PROPORCIONADO PELO GIT
-
-## Plano Integrado para Dissertação de Mestrado
-
-### 1. Infraestrutura Técnica
-
-**Ferramentas Principais:**
-- LaTeX para formatação acadêmica (ABNT)
-- Git para controle de versão
-- Obsidian para gestão de conhecimento
-- GitHub para backup e colaboração
-
-### 2. Fluxo de Trabalho Principal
-
-**Desenvolvimento de Conteúdo:**
-1. Captura inicial de ideias em Obsidian
-2. Organização do conhecimento via links e tags
-3. Desenvolvimento em LaTeX
-4. Versionamento via Git
-5. Backup automático no GitHub
-
-**Ciclo de Trabalho Diário:**
-1. Revisão de notas em Obsidian
-2. Escrita acadêmica em LaTeX
-3. Commits regulares no Git
-4. Sincronização com GitHub
-5. Backup de segurança
-
-### 3. Componentes Específicos
-
-**LaTeX:**
-- Configuração ABNT
-- Gestão de citações e bibliografia
-- Formatação acadêmica
-- Elementos pré e pós-textuais
-
-**Git:**
-- Controle de versões
-- Branches para diferentes seções
-- Tags para marcos importantes
-- Pull requests para revisões
-
-**Obsidian:**
-- Notas de pesquisa
-- Links entre conceitos
-- Rascunhos iniciais
-- Gestão de referências
-
-### 4. Integração entre Ferramentas
-
-**Obsidian → LaTeX:**
-- Exportação de conteúdo
-- Sincronização de notas
-- Referências cruzadas
-
-**Git + GitHub:**
-- Versionamento de todos os arquivos
-- Backup automatizado
-- Colaboração com orientador
-- Histórico de alterações
-
-### 5. Segurança e Backup
-
-- Backups automáticos via Git
-- Cópias de segurança na nuvem
-- Versionamento completo
-- Recuperação de versões anteriores
-
-### 6. Colaboração e Revisão
-
-- Pull requests para revisão
-- Comentários e feedback
-- Controle de mudanças
-- Integração com orientador
+> **Observção**: repositório apenas para fim de análise e comparação. O repositorio original da pesquisa em andamento está privado - e deverá ser disponibilizado tal logo a defesa ocorra.
 
 
-Estrutura de Pastas
--------------------
+# Impacto das Ferramentas de IA na Criatividade: Uma Análise em Humanidades
 
-```text
-tese/
+## Descrição do Projeto
+
+Este projeto de dissertação de mestrado investiga o impacto das ferramentas alavancadas por Inteligência Artificial (IA) na criatividade dentro do campo das humanidades. Focalizando na interseção entre Geografia, Filosofia e Cultura, a pesquisa visa compreender como a IA influencia processos criativos e a produção de conhecimento nessas áreas.
+
+## Objetivos
+
+1. **Analisar o impacto das ferramentas de IA na criatividade acadêmica**: Examinar como ferramentas como ChatGPT e similares afetam a geração de ideias, escrita e desenvolvimento de conceitos em humanidades.
+2. **Garantir a integridade e autoria do trabalho**: Implementar um sistema de documentação e verificação utilizando Git para comprovar a autoria original e minimizar o uso excessivo de ferramentas de IA.
+3. **Desenvolver um fluxo de trabalho eficiente**: Criar um ambiente de trabalho que permita a utilização de múltiplos dispositivos (computador, laptop, tablet e celular) para escrita e versionamento via Git.
+
+## Estrutura do Projeto
+
+```plaintext
+projeto-tese/
 │
-├── 01-markdown/                 # Diretório principal para arquivos em Markdown
-│   ├── 00-front-matter/         # Elementos pré-textuais (capa, resumo, etc.)
-│   │   ├── capa.md              # Capa
-│   │   ├── folha-rosto.md       # Folha de rosto
-│   │   ├── ficha-catalografica.md # Ficha catalográfica
-│   │   ├── dedicatoria.md       # Dedicatória (opcional)
-│   │   ├── agradecimentos.md    # Agradecimentos (opcional)
-│   │   ├── epigrafe.md          # Epígrafe (opcional)
-│   │   ├── resumo.md            # Resumo em português
-│   │   ├── abstract.md          # Resumo em inglês
-│   │   └── sumario.md           # Sumário
+├── 01-markdown/                 # Arquivos em Markdown
+│   ├── 00-front-matter/         # Elementos pré-textuais
+│   │   ├── capa.md
+│   │   ├── folha-rosto.md
+│   │   ├── ficha-catalografica.md
+│   │   ├── dedicatoria.md
+│   │   ├── agradecimentos.md
+│   │   ├── epigrafe.md
+│   │   ├── resumo.md
+│   │   ├── abstract.md
+│   │   └── sumario.md
 │   │
-│   ├── 01-introducao.md         # Capítulo de introdução
-│   ├── 02-desenvolvimento/      # Diretório para capítulos do desenvolvimento
-│   │   ├── capitulo1.md         # Primeiro capítulo do desenvolvimento
-│   │   ├── capitulo2.md         # Segundo capítulo do desenvolvimento
-│   │   └── ...                  # Outros capítulos
-│   │
-│   └── 03-conclusao.md          # Capítulo de conclusão
-│
-├── 02-referencias/              # Diretório para referências bibliográficas e citações
-│   ├── referencias.bib          # Arquivo BibTeX para referências (para uso futuro no LaTeX)
-│   └── referencias.md           # Referências em Markdown durante a fase inicial
-│
-├── 03-assets/                   # Diretório para recursos (imagens, tabelas, gráficos)
-│   ├── imagens/                 # Imagens usadas no texto
-│   │   └── ...                  
-│   ├── tabelas/                 # Tabelas usadas no texto
+│   ├── 01-capitulos/            # Capítulos do conteúdo principal
+│   │   ├── introducao.md
+│   │   ├── revisao_literatura.md
+│   │   ├── metodologia.md
+│   │   ├── resultados.md
+│   │   ├── conclusao.md
 │   │   └── ...
-│   └── graficos/                # Gráficos usados no texto
-│       └── ...
-│   
-├── 04-latex/                    # Diretório para arquivos LaTeX (para conversão posterior)
-│   ├── abnt-templates/          # Modelos ABNT LaTeX (template .cls e .sty)
-│   │    └── abnt.cls            # Classe LaTeX ABNT personalizada 
-│   │    └── abnt.sty            # Estilo ABNT personalizado 
-│   │    
-│   ├── main.tex                 # Arquivo principal LaTeX que compilará a tese completa 
-│   
-└── README.md                    # Instruções e documentação do projeto
+│   │
+│   └── anexos/                  # Anexos e apêndices
+│       ├── apendice_a.md
+│       └── apendice_b.md
+│
+├── 02-referencias/              # Referências bibliográficas
+│   ├── bibliografia.bib
+│   └── referencias.md
+│
+├── 03-assets/                   # Recursos (imagens, tabelas, gráficos)
+│   ├── figuras/
+│   │   ├── figura1.png          
+│   │   └── figura2.png
+│   ├── tabelas/
+│   │   └── tabela1.md
+│   └── graficos/
+│       └── grafico1.md
+│
+├── 04-latex/                    # Arquivos LaTeX para conversão
+│   ├── abnt-templates/
+│   │   ├── abnt.cls
+│   │   └── abnt.sty
+│   └── main.tex
+│
+├── 05-registros-ia/             # Registros de uso de IA
+│   ├── usos-ia.md
+│   ├── conversas/
+│   │   ├── conversa1.md
+│   │   └── conversa2.md
+│   └── referencias-ia.md
+│
+├── diario_pesquisa.md           # Registro das atividades de pesquisa
+└── README.md                    # Documentação do projeto
 ```
 
-**Explicação da Estrutura**
----------------------------
+## Decisões Tomadas
 
-*   **01-markdown/**: Esse diretório contém todo o conteúdo da tese escrito em Markdown. Ele está dividido em subpastas conforme os elementos pré-textuais, textuais e pós-textuais exigidos pela ABNT. Cada capítulo ou seção é armazenado em um arquivo separado.
-*   **02-referencias/**: Durante a fase inicial de escrita, as referências podem ser gerenciadas diretamente em um arquivo `referencias.md`. No entanto, quando você migrar para LaTeX, será útil ter um arquivo `.bib` já preparado com suas referências.
-*   **03-assets/**: Este diretório armazena todos os recursos visuais que você usará na tese, como imagens, tabelas e gráficos.
-*   **04-latex/**: Quando chegar o momento de converter seu trabalho para LaTeX e formatá-lo conforme as normas da ABNT, este diretório conterá os arquivos necessários. O arquivo principal `main.tex` será o ponto de entrada para compilar toda a tese. A pasta `abnt-templates` inclui os arquivos `.cls` e `.sty` que definem o estilo ABNT.
+### **Uso do Git e GitHub**
 
-**Fluxo de Trabalho**
----------------------
+- **Controle de Versão**: Implementação do Git para rastrear todas as alterações no documento, garantindo um histórico detalhado do desenvolvimento da dissertação.
+- **Repositório Privado**: Inicialmente, o repositório será privado no GitHub para proteger o conteúdo durante o desenvolvimento, tornando-o público apenas após a defesa conforme as diretrizes institucionais.
+- **Branches e Commits**: Utilização de branches para experimentações e commits frequentes com mensagens descritivas para facilitar a rastreabilidade e a reversão de mudanças, se necessário.
 
-1.  **Escrita Inicial em Markdown**:
-    
-    *   Você começará escrevendo diretamente no diretório `01-markdown/`, usando arquivos `.md` separados para cada seção ou capítulo.
-    *   Utilize o Git para versionamento contínuo do seu progresso.
-    
-2.  **Referências**:
-    
-    *   Durante a escrita em Markdown, você pode adicionar suas referências diretamente no arquivo `referencias.md`. Se já estiver utilizando um gerenciador de referências como o Zotero ou Mendeley, exporte as referências no formato BibTeX (`referencias.bib`) para facilitar a transição futura para LaTeX.
-    
-3.  **Conversão para LaTeX**:
-    
-    *   Quando estiver pronto para migrar seu trabalho para LaTeX, você poderá usar ferramentas como `pandoc` para converter seus arquivos `.md` diretamente em `.tex`.
-    *   O diretório `04-latex/` conterá os templates ABNT necessários e o arquivo principal `main.tex`, que compilará todos os capítulos e seções convertidos.
-    
-4.  **Compilação Final**:
-    
-    *   Após ajustar os detalhes finais no LaTeX (como formatação ABNT), compile sua tese usando o comando `pdflatex main.tex`.
-    
+### **Ferramentas de Escrita**
 
-**Ferramentas Úteis**
----------------------
+- **Visual Studio Code (VSCode)**: IDE principal no computador para edição e gerenciamento do Git.
+- **Obsidian**: Aplicativo escolhido para dispositivos móveis (tablet e celular) para edições leves e criação de conteúdo quando em movimento.
+- **Pandoc**: Ferramenta utilizada para converter arquivos Markdown em formatos acadêmicos como PDF e DOCX.
+- **Markdown**: Linguagem de marcação adotada pela sua simplicidade e compatibilidade com múltiplos dispositivos e ferramentas.
 
-*   **Pandoc**: Para converter seus arquivos Markdown em LaTeX.
-*   **Git**: Para controle de versão do projeto.
-*   **BibTeX**: Para gerenciamento das referências bibliográficas.
+### **Estrutura de Diretórios**
 
-Essa estrutura permitirá uma transição suave entre Markdown e LaTeX enquanto mantém seu trabalho organizado e preparado tanto para revisões quanto para formatação final conforme as normas da ABNT.
+- **01-markdown/**: Contém todos os arquivos em Markdown organizados por capítulos e seções, facilitando a gestão e revisão.
+- **02-referencias/**: Gerenciamento das referências bibliográficas usando BibTeX para integração futura com LaTeX.
+- **03-assets/**: Armazenamento de recursos visuais como figuras, tabelas e gráficos.
+- **04-latex/**: Preparação para conversão final do trabalho utilizando templates ABNT personalizados.
+- **05-registros-ia/**: Documentação detalhada das interações com ferramentas de IA, garantindo transparência no uso dessas tecnologias.
+- **diario_pesquisa.md**: Registro contínuo das atividades de pesquisa, ideias e decisões tomadas durante o desenvolvimento da dissertação.
+
+## Plano de Trabalho
+
+### **1. Configuração Inicial**
+
+- **Configuração do Repositório Git**: Inicializar o repositório localmente e conectá-lo ao GitHub.
+- **Estruturação dos Diretórios**: Organizar os diretórios conforme o esquema decidido.
+- **Configuração das Ferramentas**: Instalar e configurar VSCode, iA Writer e Pandoc.
+
+### **2. Desenvolvimento da Dissertação**
+
+- **Escrita e Edição**: Utilizar VSCode e Obsidian no computador para a maior parte da escrita e gerenciar versões. Usar Obsidian em dispositivos móveis para edições rápidas e adições de conteúdo em movimento.
+- **Documentação do Uso de IA**: Registrar todas as interações relevantes com ferramentas de IA no diretório `05-registros-ia/`, detalhando datas, contextos e integrações na dissertação.
+- **Gestão de Referências**: Manter referências organizadas no arquivo BibTeX para facilitar citações e formatação.
+
+### **3. Versionamento e Backup**
+
+- **Commits Frequentes**: Realizar commits diários com mensagens claras e descritivas.
+- **Uso de Tags**: Uso de tags para marcar momentos imporantes do processo de escrita.
+- **Uso de Branches**: Criar branches para explorar diferentes abordagens ou estruturar capítulos específicos.
+- **Sincronização com GitHub**: Fazer push regularmente para garantir backups e permitir acesso seguro a partir de múltiplos dispositivos.
+
+### **4. Revisões e Feedback**
+
+- **Colaboração com Orientador**: Compartilhar o repositório com o orientador para revisões via GitHub, utilizando issues para feedback e acompanhamento de tarefas.
+- **Resolução de Conflitos**: Aprender e aplicar técnicas de merge para resolver possíveis conflitos de versões.
+
+### **5. Preparação Final**
+
+- **Conversão de Formatos**: Utilizar Pandoc para converter o trabalho final de Markdown para PDF ou DOCX conforme necessário.
+- **Revisão e Polimento**: Realizar uma revisão abrangente de todo o documento, assegurando a integridade narrativa e a conformidade com as normas acadêmicas.
+- **Tagging de Versões**: Marcar versões finais dos capítulos e do documento completo para referência.
+
+### **6. Defesa e Publicação**
+
+- **Defesa da Dissertação**: Preparar a apresentação e defender a dissertação com base no trabalho desenvolvido.
+- **Publicação no GitHub**: Tornar o repositório público ou exportar o conteúdo conforme as diretrizes institucionais após a defesa.
+
+## Considerações Finais
+
+Este projeto visa não apenas explorar o impacto das ferramentas de IA na criatividade acadêmica, mas também estabelecer um fluxo de trabalho transparente e verificável que assegure a autoria e a integridade do trabalho. A utilização de Git e GitHub, combinada com ferramentas de escrita flexíveis, proporciona uma abordagem moderna e eficiente para a gestão de dissertações em humanidades.
 
 ---
-**Sources:**
-- (1) Fundamentos de Metodologia Científica
-- (2) Artigo sobre Gráficos e Visualização de Dados
-- (3) Obrigatoriedade dos Elementos Pré-textuais em Trabalhos Acadêmicos
 
+**Contato**
 
-----
-
-#### Adições ao Plano
-
-Gerenciamento de Referências
-
-    Aprenda a usar um gerenciador de referências como Zotero ou Mendeley em conjunto com LaTeX.
-    Pratique a exportação de bibliotecas para o formato BibTeX.
-    Explore diferentes estilos de citação ABNT e como implementá-los no LaTeX.
-
-Backup e Segurança
-
-    Configure backups automáticos do seu repositório Git para um serviço de armazenamento em nuvem.
-    Aprenda a usar chaves SSH para uma conexão segura com o GitHub.
-
-Colaboração
-
-    Pratique o uso de Pull Requests no GitHub para simular um processo de revisão por pares.
-    Explore ferramentas de revisão colaborativa como Overleaf ou ShareLaTeX.
-
-Produtividade
-
-    Crie snippets ou modelos LaTeX para elementos frequentemente usados na sua dissertação.
-    Explore extensões VS Code específicas para LaTeX e Git que podem melhorar seu fluxo de trabalho.
-    Considere usar um sistema de anotações vinculado ao seu projeto, como o Obsidian, para gerenciar ideias e notas de pesquisa.
-
-Este plano refinado oferece uma abordagem abrangente e prática para o desenvolvimento da sua dissertação usando LaTeX e Git. Ele cobre não apenas os aspectos técnicos, mas também considera práticas de produtividade, colaboração e segurança que são cruciais para um projeto acadêmico de longo prazo. Lembre-se de ajustar o plano conforme necessário à medida que avança em seu projeto, adaptando-o às suas necessidades específicas e ao feedback do seu orientador.
+- **Autor**: WALKER DE B DANTAS PANIAGUA
+- **Email**: niilist@gmail.com
