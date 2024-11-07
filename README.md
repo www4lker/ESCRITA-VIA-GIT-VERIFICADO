@@ -1,5 +1,4 @@
-> **Observção**: repositório apenas para fim de análise e comparação. O repositorio original da pesquisa em andamento está privado - e deverá ser disponibilizado tal logo a defesa ocorra.
-
+> **Observção**: repositório apenas para fim de análise e comparação. O repositorio original da pesquisa em andamento está privado - e deverá ser disponibilizado tão logo a defesa ocorra.
 
 # Impacto das Ferramentas de IA na Criatividade: Uma Análise em Humanidades
 
